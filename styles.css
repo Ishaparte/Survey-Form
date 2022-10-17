@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 1rem;
+  background-image:     url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  background-position: center;
+}
+
+#survey-form{
+    border:1px solid #3b3b4f;
+    background-color: #3b3b4f;
+    width: 60vw;
+    padding: auto;
+    margin: auto;
+    font-size: 200%;
+  }
+  
+  .personal{
+    width: 50vw;
+    height: 5vh;
+    border-radius: 2px;
+    border: none;
+    padding:2px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;  
+  }
+  
+  #dropdown{
+    font-family: 'Poppins', sans-serif;
+    width: 50vw;
+    border: none;
+    height:5vh ;
+    font-size: 20px;
+  }
+  
+  select{
+    font-family: 'Poppins', sans-serif;
+    width: 50vw;
+    border: none;
+    height: 5vh;
+    font-size: 20px;
+  }
+  
+  h1,p{
+    text-align: center;
+  }
+  
+  #description{
+    font-size: 0.8rem;
+  }
+  
+  fieldset{
+    border: none;
+    margin: 40px;
+  }
+  
+  .comment{
+    font-family: 'Poppins', sans-serif;
+    width: 50vw;
+    border: none;
+    height: 10vh;
+    font-size: 20px;
+  }
+  
+  #submit{
+    width: 50vw;
+    height: 5vh;
+    margin: auto;
+    padding: auto;
+     font-family: 'Poppins', sans-serif;
+     display: flex;
+     justify-content: center;
+       background-color: rgb(103, 218, 112);
+       border: none;
+  
+  }
+  
+  
+  
+  
